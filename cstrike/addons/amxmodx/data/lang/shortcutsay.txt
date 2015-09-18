@@ -1,0 +1,4 @@
+[en]
+BAD PARAMS = Bad parameters, should be
+BLANK COMMAND = Command usage
+NO ACCESS = You do not have access to the Shortcut Say commands
